@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow==2.16.1
+pandas
+numpy
+scikit-learn
+joblib
